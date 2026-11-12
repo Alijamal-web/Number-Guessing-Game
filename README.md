@@ -1,3 +1,5 @@
+
+
 # Number Guessing Game
 
 ## About the Project
@@ -41,6 +43,8 @@ Through this project, I practised:
 
 ## Game Demonstration
 Here is a short video demonstrating the gameplay:
+
+https://github.com/user-attachments/assets/371ece3c-9796-4c65-bc83-ed92b1a7e95d
 
 ## Author
 Created by Alijamal Jamal-zada.
